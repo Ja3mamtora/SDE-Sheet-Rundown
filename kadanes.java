@@ -1,4 +1,4 @@
-class Solution {
+class Kadanes {
     public int maxSubArray(int[] nums) {
         int maxi = -10000000, sum = 0;
 
